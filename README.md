@@ -1,7 +1,6 @@
-En este repositorio centralizaremos toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Web del I.E.S Alixar**.
-Al continuación encontraremos los **apellidos y nombre** del alumno/a junto al **título de su proyecto**. El enlace nos dará acceso al repositorio del proyecto (no a la página GitHub del usuario).
+Este repositorio se centra toda la información relativa sobre **Mi Proyecto Final del Grado de Desarrollo de Aplicaciones Web, realizado en I.E.S Alixar**.
 
-En este repositorio se debe incluir la documentación especificada en [Requerimientos y criterios a seguir en el desarrollo de los proyectos](https://github.com/iesalixar/plantilla_proyecto_iesalixar/wiki/a.---Criterios-comunes-para-todos-los-proyectos), así como las indicaciones que el tutor haya podido ir a realizando a lo largo del desarrollo del mismo.
+En este repositorio incluyo la documentación especificada en [Requerimientos y criterios a seguir en el desarrollo de los proyectos](https://github.com/iesalixar/plantilla_proyecto_iesalixar/wiki/a.---Criterios-comunes-para-todos-los-proyectos), así como las indicaciones que el tutor haya podido ir a realizando a lo largo del desarrollo del mismo.
 
 El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](https://github.com/iesalixar/plantilla_proyecto_iesalixar/wiki/w1.--PROCESO-ESTRUCTURADO-PARA-DESARROLLO-DE-APLICACIONES-WEB), este  de contenido de la wiki te puede ayudar.
 
@@ -12,24 +11,26 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 
 ---
 
-# Título del Proyecto
+# ShishaTime
 
-#### Curso Escolar 20XX-20XX
-#### Autor: [Nombre del alumno autor](Enlace a su cuenta de gitHub)
+#### Curso Escolar 2019-2020
+#### Autor: [Juan José Librero Cansino](https://github.com/juanjolibrero98)
 #### Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
-#### Fecha de Inicio: DD-MM-YYYY
+#### Fecha de Inicio: 26-12-2019
 #### Fecha de Finalización: DD-MM-YYYY
 
 ## Breve descripción del proyecto
 
-Si ya tienes una idea para tu aplicación, explícala brevemente. Si no es así, lo que realmente necesitas es **buscar un problema o necesidad a la que darle solución**, y estos **están por todas partes**. Así que trata de buscar problemas o necesidades en tu vida diaria y realiza una lista. Una vez que tengas una lista exhaustiva, ya puedes empezar a pensar en **cómo puedes resolverlos**.
+ ShishaTime es una aplicación web desarrollada única y exclusivamente para la venta de productos de alta calidad relacionados con el mundo de la cachimba / shisha / hookah / narguile.
+ Nuestra tienda online resolverá el problema que tienen otras webs online de venta de cachimbas como el apartado de comentario y opiniones, las cuales estarán rellenadas por los usuarios que compren ese artículo debido a que tendrán un mensaje obligatorio el cual les repetira constantemente que aun no han valorado ese artículo que han comprado, además de nuestra parte crearemos un canal de Youtube y lo asociaremos a la web para poder garantizar el funcionamiento de cada cachimba o accesorio que vendamos, para a su vez los clientes que estén interesados en comprar ese artículo puedan observar como funciona y puedan decidirse mas claro el optar a comprar ese producto, este video saldrá también en cada acticulo, por lo que el cada art´culo qye vendamos estará detalladamente informado para que nuestros clientes no tengan ninguna duda a la hora de comprarlo.
+Por lo demas será una web online de venta de cachimbas totalmente funcional. Cabe destacar, que todo el que visualice nuestra web de manera no registrado no podrá ver el precio de cada produco, es decir, puede visualizar todos los artículos que tengamos tanto en stock como fuera de stock pero no podrá ver el precio, ni tendrá todas las funciones que nuestros clientes que se registren podrán llegar a tener, además de poder visualizar el precio.
 
-En este apartado el alumno debe hacer una breve descripción del proyecto que vaya a realizar. Esta descripción no será ua descripción detallada, será una presentación general con no más de 10 líneas.
 
 ## Definir el objetivo de la aplicación
 **Tener una gran idea** o encontrar un punto del mercado al que no se esté dando un producto o servicio es el punto de partida en cada nuevo proyecto. Antes de comenzar debes **definir claramente el propósito y la misión de la aplicación web**:
 
 - **¿Qué va a hacer la aplicación?**
+    La aplicación web será una tienda casi funcional de venta de cachimbas y accesorios, la cual tendra diversos campos donde el usuario podrá navegar a traves de la web para ver todos los productos y tener mayor información sobre el mundo de las cachimbas
 - **¿Cuál es su atractivo principal?** 
 - **¿Qué problema concreto va a resolver?** 
 - **¿Qué necesidad va a cubrir?**
