@@ -5,8 +5,8 @@ En esta carpeta se recoge toda la documentación relativa al proyecto solicitada
 Un ejemplo sería el siguiente:
 - [Captura de requisitos](https://github.com/juanjolibrero98/Proyecto_Final_Grado_iesalixar/blob/master/docs/Documentos_Investigacion/Requisitos_De_La_Aplicacion.md)
 - [Arquitectura del Proyecto y su contenido]()
-    - [Vista de Subsistemaa y Componentes: Mapa de la Aplicación]()
-    - [Vista de Concurrencia y Recursos: Diseño de Base de Datos]()
+    - [Vista de Subsistemaa y Componentes: Mapa de la Aplicación](https://github.com/juanjolibrero98/Proyecto_Final_Grado_iesalixar/blob/master/docs/Arquitectura_Del_Proyecto/Mapa_De_La_Aplicacion.pdf)
+    - [Vista de Concurrencia y Recursos: Diseño de Base de Datos](https://github.com/juanjolibrero98/Proyecto_Final_Grado_iesalixar/tree/master/docs/Arquitectura_Del_Proyecto/%20ModeloDeDatos)
     - [Vista de Distribución: Diseño de la Página/Aplicación/Interfaz]()
     - [vista de Seguridad y Fiabilidad]()
     - [Vista de Despliegue]()
