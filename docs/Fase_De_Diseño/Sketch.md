@@ -1,0 +1,1 @@
+# Boceto del diseño

@@ -1,0 +1,1 @@
+# Concepto gráfico de del producto
